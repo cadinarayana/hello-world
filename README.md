@@ -1,5 +1,5 @@
 # hello-world
-just anither repository
+just another repository
 
 
 Adi hear,i like node.js coffescript(thats what i am made of!)
